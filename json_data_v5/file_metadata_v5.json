@@ -1,0 +1,194 @@
+{
+  "ROG-Dia-GSO-P0005": {
+    "referenced_file": "",
+    "comment": "Imported from a transcriber file on 2025-05-29T11:53:43.979+02:00   // PR, 2025-11-14: Consolidate naming conventions, validate correspondence between std and anno transcriptions, import metadata.   // JV, 2025-11-26T13:40 : Manual timeline corrections. // PR, 2025-11-28: Import of normSeq and colloqSeq tiers from standard exbs. ",
+    "transcription_metadata": {
+      "TEXT-ID": "ROG-Dia-GSO-P0005",
+      "SUBCORPUS": "ROG-dialog",
+      "TITLE": "Z govorkama smo se predhodno dogovorile za snemanje. Da je bil pogovor sproščen, smo govor snemale na domu ene izmed njiju. Pogovor je potekal o temah, ki govorki zanimajo, da sta si lahko izmenjevali navodila.",
+      "DATE": "2025-03",
+      "TEXT-REGION": "Postojna",
+      "DOMAIN": "Navodila",
+      "TYPE": "Zasebni",
+      "CHANNEL": "Osebni stik",
+      "N-SPEAKERS": "2",
+      "REC-LOCATION": "Dnevna soba"
+    }
+  },
+  "ROG-Dia-GSO-P0007": {
+    "referenced_file": "",
+    "comment": "Imported from a transcriber file on 2025-06-05T14:19:51.674+02:00   // PR, 2025-11-14: Consolidate naming conventions, validate correspondence between std and anno transcriptions, import metadata. // JV, 2025-11-26T13:40 : Manual timeline corrections. // PR, 2025-11-28: Import of normSeq and colloqSeq tiers from standard exbs. ",
+    "transcription_metadata": {
+      "TEXT-ID": "ROG-Dia-GSO-P0007",
+      "SUBCORPUS": "ROG-dialog",
+      "TITLE": "Ena sogovornica je obiskala drugo in v kuhinji za mizo sta opravile pogovor, ki se je snemal.",
+      "DATE": "2025-03",
+      "TEXT-REGION": "Laško",
+      "DOMAIN": "Družabni pogovor",
+      "TYPE": "Zasebni",
+      "CHANNEL": "Osebni stik",
+      "N-SPEAKERS": "2",
+      "REC-LOCATION": "kuhinja"
+    }
+  },
+  "ROG-Dia-GSO-P0008": {
+    "referenced_file": "",
+    "comment": "Imported from a transcriber file on 2025-06-13T12:11:59.844+02:00   // PR, 2025-11-14: Consolidate naming conventions, validate correspondence between std and anno transcriptions, import metadata. // JV, 2025-11-26T13:40 : Manual timeline corrections. // PR, 2025-11-28: Import of normSeq and colloqSeq tiers from standard exbs. ",
+    "transcription_metadata": {
+      "TEXT-ID": "ROG-Dia-GSO-P0008",
+      "SUBCORPUS": "ROG-dialog",
+      "TITLE": "Pogovor med bratoma o kosilu ter o tehnologiji ter argumentiranje prednosti in slabosti.",
+      "DATE": "2025-03",
+      "TEXT-REGION": "Grosuplje",
+      "DOMAIN": "Diskusija",
+      "TYPE": "Zasebni",
+      "CHANNEL": "Osebni stik",
+      "N-SPEAKERS": "2",
+      "REC-LOCATION": "Spalnica"
+    }
+  },
+  "ROG-Dia-GSO-P0009": {
+    "referenced_file": "",
+    "comment": "Imported from a transcriber file on 2025-06-09T14:55:34.036+02:00   // PR, 2025-11-14: Consolidate naming conventions, validate correspondence between std and anno transcriptions, import metadata. // JV, 2025-11-26T13:40 : Manual timeline corrections. // PR, 2025-11-28: Import of normSeq and colloqSeq tiers from standard exbs. ",
+    "transcription_metadata": {
+      "TEXT-ID": "ROG-Dia-GSO-P0009",
+      "SUBCORPUS": "ROG-dialog",
+      "TITLE": "Posnetek je nastal v domačem okolju enega izmed govorcev med njim in njegovim dolgoletnim sosedom in prijateljem na pobudo snemalke. ",
+      "DATE": "2025-03",
+      "TEXT-REGION": "Mrzlava vas, Brežice",
+      "DOMAIN": "Družabni pogovor",
+      "TYPE": "Zasebni",
+      "CHANNEL": "Osebni stik",
+      "N-SPEAKERS": "2",
+      "REC-LOCATION": "Kuhinja"
+    }
+  },
+  "ROG-Dia-GSO-P0011": {
+    "referenced_file": "",
+    "comment": "Imported from a transcriber file on 2025-06-09T14:56:22.812+02:00   // PR, 2025-11-14: Consolidate naming conventions, validate correspondence between std and anno transcriptions, import metadata. // JV, 2025-11-26T13:40 : Manual timeline corrections. // PR, 2025-11-28: Import of normSeq and colloqSeq tiers from standard exbs. ",
+    "transcription_metadata": {
+      "TEXT-ID": "ROG-Dia-GSO-P0011",
+      "SUBCORPUS": "ROG-dialog",
+      "TITLE": "Govorca sta ženska in moški, oba stara okrog 50 let. Je večer, sedita za kuhinjsko mizo. Ženska postavlja moškemu vprašanja o domačem kraju, običajih in spominih iz otroštva ter mladosti. Moški odgovarja na njena vprašanja, ona pa ga med tem tudi spomni na pomembne točke, ki bi jih lahko vključil v svoje odgovore.",
+      "DATE": "2025-03",
+      "TEXT-REGION": "Ljutomer",
+      "DOMAIN": "Intervju",
+      "TYPE": "Zasebni",
+      "CHANNEL": "Osebni stik",
+      "N-SPEAKERS": "2",
+      "REC-LOCATION": "Jedilnica"
+    }
+  },
+  "ROG-Dia-GSO-P0012": {
+    "referenced_file": "",
+    "comment": "Imported from a transcriber file on 2025-06-09T18:38:48.798+02:00   // PR, 2025-11-14: Consolidate naming conventions, validate correspondence between std and anno transcriptions, import metadata. // JV, 2025-11-26T13:40 : Manual timeline corrections. // PR, 2025-11-28: Import of normSeq and colloqSeq tiers from standard exbs. ",
+    "transcription_metadata": {
+      "TEXT-ID": "ROG-Dia-GSO-P0012",
+      "SUBCORPUS": "ROG-dialog",
+      "TITLE": "Ena od sogovornic je prišla na obisk k drugi. Usedli sta se za mizo in pričeli s pogovorom.",
+      "DATE": "2025-03",
+      "TEXT-REGION": "Maribor",
+      "DOMAIN": "Intervju",
+      "TYPE": "Zasebni",
+      "CHANNEL": "Osebni stik",
+      "N-SPEAKERS": "2",
+      "REC-LOCATION": "Kuhinja"
+    }
+  },
+  "ROG-Dia-GSO-P0016": {
+    "referenced_file": "",
+    "comment": "Imported from a transcriber file on 2025-08-01T15:11:57.976+02:00   // PR, 2025-11-14: Consolidate naming conventions, validate correspondence between std and anno transcriptions, import metadata. // JV, 2025-11-26T13:40 : Manual timeline corrections. // PR, 2025-11-28: Import of normSeq and colloqSeq tiers from standard exbs. ",
+    "transcription_metadata": {
+      "TEXT-ID": "ROG-Dia-GSO-P0016",
+      "SUBCORPUS": "ROG-dialog",
+      "TITLE": "Starejši moški in ženska imata diskusijo o svojem otroštvu, odraščanju na kmetih. ",
+      "DATE": "2025-03",
+      "TEXT-REGION": "Dekani",
+      "DOMAIN": "Diskusija",
+      "TYPE": "Zasebni",
+      "CHANNEL": "Osebni stik",
+      "N-SPEAKERS": "2",
+      "REC-LOCATION": "Spalnica"
+    }
+  },
+  "ROG-Dia-GSO-P0018": {
+    "referenced_file": "",
+    "comment": "Imported from a transcriber file on 2025-06-18T13:12:29.966+02:00   // PR, 2025-11-14: Consolidate naming conventions, validate correspondence between std and anno transcriptions, import metadata. // JV, 2025-11-26T13:40 : Manual timeline corrections. // PR, 2025-11-28: Import of normSeq and colloqSeq tiers from standard exbs. ",
+    "transcription_metadata": {
+      "TEXT-ID": "ROG-Dia-GSO-P0018",
+      "SUBCORPUS": "ROG-dialog",
+      "TITLE": "Dobili smo se v župnišču, se pogovorili o prostoru snemanja, zahtevah posnetka. Govorki sta se odločili za spontan družabni pogovor brez vnaprej pripravljenih tem in vprašanj.",
+      "DATE": "2025-04",
+      "TEXT-REGION": "Križe, Tržič",
+      "DOMAIN": "Družabni pogovor",
+      "TYPE": "Zasebni",
+      "CHANNEL": "Osebni stik",
+      "N-SPEAKERS": "2",
+      "REC-LOCATION": "podstrešje v župnišču"
+    }
+  },
+  "ROG-Dia-GSO-P0019": {
+    "referenced_file": "",
+    "comment": "Imported from a transcriber file on 2025-06-12T15:24:28.796+02:00   // PR, 2025-11-14: Consolidate naming conventions, validate correspondence between std and anno transcriptions, import metadata. // JV, 2025-11-26T13:40 : Manual timeline corrections. // PR, 2025-11-28: Import of normSeq and colloqSeq tiers from standard exbs. ",
+    "transcription_metadata": {
+      "TEXT-ID": "ROG-Dia-GSO-P0019",
+      "SUBCORPUS": "ROG-dialog",
+      "TITLE": "Pogovor med sestro in bratom, ki sta se pogovarjala o potovanjih. Sestra je delila svojo izkušnjo potovanja v tujino, medtem ko jo je brat spraševal še o drugih vidikih potovanja – od priprav pred odhodom do krajev, ki jih je obiskala.",
+      "DATE": "2025-04",
+      "TEXT-REGION": "Ljubljana",
+      "DOMAIN": "Pripoved",
+      "TYPE": "Zasebni",
+      "CHANNEL": "Osebni stik",
+      "N-SPEAKERS": "2",
+      "REC-LOCATION": "Skupni prostor študentskega doma"
+    }
+  },
+  "ROG-Dia-GSO-P0021": {
+    "referenced_file": "",
+    "comment": "Imported from a transcriber file on 2025-06-23T15:37:51.999+02:00   // PR, 2025-11-14: Consolidate naming conventions, validate correspondence between std and anno transcriptions, import metadata. // JV, 2025-11-26T13:40 : Manual timeline corrections. // PR, 2025-11-28: Import of normSeq and colloqSeq tiers from standard exbs. ",
+    "transcription_metadata": {
+      "TEXT-ID": "ROG-Dia-GSO-P0021",
+      "SUBCORPUS": "ROG-dialog",
+      "TITLE": "Prijateljski pogovor med 2 osebama, ki se pogovarjata o splošnih temah; delo, prosti čas, hišni ljubljenčki, načrti za prihodnost, opis dela, itd",
+      "DATE": "2025-04",
+      "TEXT-REGION": "Prvačina",
+      "DOMAIN": "Družabni pogovor",
+      "TYPE": "Zasebni",
+      "CHANNEL": "Osebni stik",
+      "N-SPEAKERS": "2",
+      "REC-LOCATION": "dnevna soba"
+    }
+  },
+  "ROG-Dia-GSO-P0022": {
+    "referenced_file": "",
+    "comment": "Imported from a transcriber file on 2025-06-23T13:44:31.025+02:00   // PR, 2025-11-14: Consolidate naming conventions, validate correspondence between std and anno transcriptions, import metadata. // JV, 2025-11-26T13:40 : Manual timeline corrections. // PR, 2025-11-28: Import of normSeq and colloqSeq tiers from standard exbs. ",
+    "transcription_metadata": {
+      "TEXT-ID": "ROG-Dia-GSO-P0022",
+      "SUBCORPUS": "ROG-dialog",
+      "TITLE": "Pogovor med sorodnikoma o glasbenih skupinah in glasbenih izkušnjah.",
+      "DATE": "2025-04",
+      "TEXT-REGION": "Šentjernej",
+      "DOMAIN": "Družabni pogovor",
+      "TYPE": "Zasebni",
+      "CHANNEL": "Osebni stik",
+      "N-SPEAKERS": "2",
+      "REC-LOCATION": "Dnevna soba"
+    }
+  },
+  "ROG-Dia-GSO-P0025": {
+    "referenced_file": "",
+    "comment": "Imported from a transcriber file on 2025-06-25T09:03:21.22+02:00   // PR, 2025-11-14: Consolidate naming conventions, validate correspondence between std and anno transcriptions, import metadata. // JV, 2025-11-26T13:40 : Manual timeline corrections. // PR, 2025-11-28: Import of normSeq and colloqSeq tiers from standard exbs. ",
+    "transcription_metadata": {
+      "TEXT-ID": "ROG-Dia-GSO-P0025",
+      "SUBCORPUS": "ROG-dialog",
+      "TITLE": "Pogovor o potovanju na Japonsko, iskanju novega stanovanja, službi in pripravi raznih Japonskih jedi",
+      "DATE": "2025-04",
+      "TEXT-REGION": "Ljubljana, Lukovica",
+      "DOMAIN": "Navodila",
+      "TYPE": "Zasebni",
+      "CHANNEL": "Avdio na daljavo",
+      "N-SPEAKERS": "3",
+      "REC-LOCATION": "Študentska soba, dnevna soba"
+    }
+  }
+}
