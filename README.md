@@ -5,7 +5,7 @@ Slovenian conversational speech dataset with sentiment, dialogue dimension, and 
 ## Dataset Overview
 
 **Source:** EXB (EXMARaLDA) files from ROG-Dialog corpus  
-**Version:** v6  
+**Version:** v7  
 **Tasks:** 3 (Sentiment, Dialogue Dimension, Dialogue Function)  
 **Format:** JSON and TSV
 
@@ -34,18 +34,18 @@ Slovenian conversational speech dataset with sentiment, dialogue dimension, and 
 
 ### Data Files
 ```
-sentiment_v6.json          # All sentiment instances
-dimension_v6.json          # All dimension instances  
-function_v6.json           # All function instances
-file_metadata_v6.json      # File-level metadata
-speaker_metadata_v6.json   # Speaker demographics
+sentiment_v7.json          # All sentiment instances
+dimension_v7.json          # All dimension instances  
+function_v7.json           # All function instances
+file_metadata_v7.json      # File-level metadata
+speaker_metadata_v7.json   # Speaker demographics
 ```
 
 ### TSV Splits
 For each task (sentiment/dimension/function):
 ```
-{task}_split_orig_{train|dev|test}_v6.tsv    # Original splits from corpus
-{task}_split_redo_{train|dev|test}_v6.tsv    # Rebalanced splits
+{task}_split_orig_{train|dev|test}_v7.tsv    # Original splits from corpus
+{task}_split_redo_{train|dev|test}_v7.tsv    # Rebalanced splits
 ```
 
 ## Data Structure
@@ -139,7 +139,7 @@ This preserves the actual conversation flow.
 ```python
 import json
 
-with open('sentiment_v6.json') as f:
+with open('sentiment_v7.json') as f:
     data = json.load(f)
 
 for instance in data:
