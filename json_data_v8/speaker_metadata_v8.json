@@ -1,0 +1,576 @@
+{
+  "ROG-Dia-GSO-P0005": {
+    "ROG-dialog-0007": {
+      "abbreviation": "ROG-dialog-0007",
+      "sex": "u",
+      "metadata": {
+        "TEXT-ID": "ROG-Dia-GSO-P0005",
+        "SUBCORPUS": "ROG-dialog",
+        "PRS-ID": "ROG-dialog-0007",
+        "GENDER": "Ženski",
+        "AGE": "47",
+        "1LANG": "SL",
+        "REGISTER": "narečje",
+        "EDUCATION": "Višješolska ali visokošolska strokovna",
+        "PERM-RESD-SETTLEMENT": "Postojna, Občina Postojna",
+        "PERM-RESD-STAT-REGION": "primorsko-notranjska regija",
+        "CHILD-RESD-SETTLEMENT": "Postojna, Občina postojna",
+        "CHILD-RESD-STAT-REGION": "primorsko-notranjska regija",
+        "OTHER-RESD-SETTLEMENT": "None",
+        "OTHER-RESD-STAT-REGION": "None",
+        "BILINGUAL": "Ne",
+        "BILING-DESCRIPTION": "None"
+      }
+    },
+    "ROG-dialog-0008": {
+      "abbreviation": "ROG-dialog-0008",
+      "sex": "u",
+      "metadata": {
+        "TEXT-ID": "ROG-Dia-GSO-P0005",
+        "SUBCORPUS": "ROG-dialog",
+        "PRS-ID": "ROG-dialog-0008",
+        "GENDER": "Ženski",
+        "AGE": "50",
+        "1LANG": "SL",
+        "REGISTER": "narečje",
+        "EDUCATION": "Srednješolska",
+        "PERM-RESD-SETTLEMENT": "Postojna, Občina Postojna",
+        "PERM-RESD-STAT-REGION": "primorsko-notranjska regija",
+        "CHILD-RESD-SETTLEMENT": "Pivka, Občina Pivka",
+        "CHILD-RESD-STAT-REGION": "primorsko-notranjska regija",
+        "OTHER-RESD-SETTLEMENT": "Nova Gorica, Občina Nova Gorica",
+        "OTHER-RESD-STAT-REGION": "Goriška regija",
+        "BILINGUAL": "Ne",
+        "BILING-DESCRIPTION": "None"
+      }
+    }
+  },
+  "ROG-Dia-GSO-P0007": {
+    "ROG-dialog-0011": {
+      "abbreviation": "ROG-dialog-0011",
+      "sex": "u",
+      "metadata": {
+        "TEXT-ID": "ROG-Dia-GSO-P0007",
+        "SUBCORPUS": "ROG-dialog",
+        "PRS-ID": "ROG-dialog-0011",
+        "GENDER": "Ženski",
+        "AGE": "51",
+        "1LANG": "SL",
+        "REGISTER": "pogovorni jezik",
+        "EDUCATION": "Višješolska ali visokošolska strokovna",
+        "PERM-RESD-SETTLEMENT": "Laško, Laško",
+        "PERM-RESD-STAT-REGION": "savinjska regija",
+        "CHILD-RESD-SETTLEMENT": "Laško, Laško",
+        "CHILD-RESD-STAT-REGION": "savinjska regija",
+        "OTHER-RESD-SETTLEMENT": "Maribor, Maribor",
+        "OTHER-RESD-STAT-REGION": "podravska regija",
+        "BILINGUAL": "Ne",
+        "BILING-DESCRIPTION": "None"
+      }
+    },
+    "ROG-dialog-0012": {
+      "abbreviation": "ROG-dialog-0012",
+      "sex": "u",
+      "metadata": {
+        "TEXT-ID": "ROG-Dia-GSO-P0007",
+        "SUBCORPUS": "ROG-dialog",
+        "PRS-ID": "ROG-dialog-0012",
+        "GENDER": "Ženski",
+        "AGE": "41",
+        "1LANG": "SL",
+        "REGISTER": "pogovorni jezik",
+        "EDUCATION": "Srednješolska",
+        "PERM-RESD-SETTLEMENT": "Laško, Laško",
+        "PERM-RESD-STAT-REGION": "savinjska regija",
+        "CHILD-RESD-SETTLEMENT": "Laško, Laško",
+        "CHILD-RESD-STAT-REGION": "savinjska regija",
+        "OTHER-RESD-SETTLEMENT": "Celje, Celje",
+        "OTHER-RESD-STAT-REGION": "savinjska regija",
+        "BILINGUAL": "Ne",
+        "BILING-DESCRIPTION": "None"
+      }
+    }
+  },
+  "ROG-Dia-GSO-P0008": {
+    "ROG-dialog-0013": {
+      "abbreviation": "ROG-dialog-0013",
+      "sex": "u",
+      "metadata": {
+        "TEXT-ID": "ROG-Dia-GSO-P0008",
+        "SUBCORPUS": "ROG-dialog",
+        "PRS-ID": "ROG-dialog-0013",
+        "GENDER": "Moški",
+        "AGE": "26",
+        "1LANG": "SL",
+        "REGISTER": "pogovorni jezik",
+        "EDUCATION": "Univerzitetna ali več",
+        "PERM-RESD-SETTLEMENT": "Perovo, Grosuplje",
+        "PERM-RESD-STAT-REGION": "osrednjeslovenska regija",
+        "CHILD-RESD-SETTLEMENT": "Perovo, Grosuplje",
+        "CHILD-RESD-STAT-REGION": "osrednjeslovenska regija",
+        "OTHER-RESD-SETTLEMENT": "None",
+        "OTHER-RESD-STAT-REGION": "None",
+        "BILINGUAL": "Ne",
+        "BILING-DESCRIPTION": "None"
+      }
+    },
+    "ROG-dialog-0014": {
+      "abbreviation": "ROG-dialog-0014",
+      "sex": "u",
+      "metadata": {
+        "TEXT-ID": "ROG-Dia-GSO-P0008",
+        "SUBCORPUS": "ROG-dialog",
+        "PRS-ID": "ROG-dialog-0014",
+        "GENDER": "Moški",
+        "AGE": "27",
+        "1LANG": "SL",
+        "REGISTER": "pogovorni jezik",
+        "EDUCATION": "Univerzitetna ali več",
+        "PERM-RESD-SETTLEMENT": "Perovo, Grosuplje",
+        "PERM-RESD-STAT-REGION": "osrednjeslovenska regija",
+        "CHILD-RESD-SETTLEMENT": "Perovo, Grosuplje",
+        "CHILD-RESD-STAT-REGION": "osrednjeslovenska regija",
+        "OTHER-RESD-SETTLEMENT": "None",
+        "OTHER-RESD-STAT-REGION": "None",
+        "BILINGUAL": "Ne",
+        "BILING-DESCRIPTION": "None"
+      }
+    }
+  },
+  "ROG-Dia-GSO-P0009": {
+    "ROG-dialog-0015": {
+      "abbreviation": "ROG-dialog-0015",
+      "sex": "u",
+      "metadata": {
+        "TEXT-ID": "ROG-Dia-GSO-P0009",
+        "SUBCORPUS": "ROG-dialog",
+        "PRS-ID": "ROG-dialog-0015",
+        "GENDER": "Moški",
+        "AGE": "70",
+        "1LANG": "SL",
+        "REGISTER": "narečje",
+        "EDUCATION": "Srednješolska",
+        "PERM-RESD-SETTLEMENT": "Sobenja vas, Brežice",
+        "PERM-RESD-STAT-REGION": "posavska regija",
+        "CHILD-RESD-SETTLEMENT": "Sobenja vas, Brežice",
+        "CHILD-RESD-STAT-REGION": "posavska regija",
+        "OTHER-RESD-SETTLEMENT": "None",
+        "OTHER-RESD-STAT-REGION": "None",
+        "BILINGUAL": "Ne",
+        "BILING-DESCRIPTION": "None"
+      }
+    },
+    "ROG-dialog-0016": {
+      "abbreviation": "ROG-dialog-0016",
+      "sex": "u",
+      "metadata": {
+        "TEXT-ID": "ROG-Dia-GSO-P0009",
+        "SUBCORPUS": "ROG-dialog",
+        "PRS-ID": "ROG-dialog-0016",
+        "GENDER": "Moški",
+        "AGE": "73",
+        "1LANG": "SR",
+        "REGISTER": "narečje",
+        "EDUCATION": "Srednješolska",
+        "PERM-RESD-SETTLEMENT": "Mrzlava vas, Brežice",
+        "PERM-RESD-STAT-REGION": "posavska regija",
+        "CHILD-RESD-SETTLEMENT": "Stara Pazova, Stara Pazova",
+        "CHILD-RESD-STAT-REGION": "-",
+        "OTHER-RESD-SETTLEMENT": "Kranj, Kranj",
+        "OTHER-RESD-STAT-REGION": "gorenjska regija",
+        "BILINGUAL": "Ne",
+        "BILING-DESCRIPTION": "None"
+      }
+    }
+  },
+  "ROG-Dia-GSO-P0011": {
+    "ROG-dialog-0019": {
+      "abbreviation": "ROG-dialog-0019",
+      "sex": "u",
+      "metadata": {
+        "TEXT-ID": "ROG-Dia-GSO-P0011",
+        "SUBCORPUS": "ROG-dialog",
+        "PRS-ID": "ROG-dialog-0019",
+        "GENDER": "Ženski",
+        "AGE": "53",
+        "1LANG": "SL",
+        "REGISTER": "narečje",
+        "EDUCATION": "Srednješolska",
+        "PERM-RESD-SETTLEMENT": "Ljutomer, Ljutomer",
+        "PERM-RESD-STAT-REGION": "pomurska regija",
+        "CHILD-RESD-SETTLEMENT": "Ljutomer, Ljutomer",
+        "CHILD-RESD-STAT-REGION": "pomurska regija",
+        "OTHER-RESD-SETTLEMENT": "None",
+        "OTHER-RESD-STAT-REGION": "None",
+        "BILINGUAL": "Ne",
+        "BILING-DESCRIPTION": "None"
+      }
+    },
+    "ROG-dialog-0020": {
+      "abbreviation": "ROG-dialog-0020",
+      "sex": "u",
+      "metadata": {
+        "TEXT-ID": "ROG-Dia-GSO-P0011",
+        "SUBCORPUS": "ROG-dialog",
+        "PRS-ID": "ROG-dialog-0020",
+        "GENDER": "Moški",
+        "AGE": "52",
+        "1LANG": "SL",
+        "REGISTER": "narečje",
+        "EDUCATION": "Srednješolska",
+        "PERM-RESD-SETTLEMENT": "Ljutomer, Ljutomer",
+        "PERM-RESD-STAT-REGION": "pomurska regija",
+        "CHILD-RESD-SETTLEMENT": "Ljutomer, Ljutomer",
+        "CHILD-RESD-STAT-REGION": "pomurska regija",
+        "OTHER-RESD-SETTLEMENT": "None",
+        "OTHER-RESD-STAT-REGION": "None",
+        "BILINGUAL": "Ne",
+        "BILING-DESCRIPTION": "None"
+      }
+    }
+  },
+  "ROG-Dia-GSO-P0012": {
+    "ROG-dialog-0021": {
+      "abbreviation": "ROG-dialog-0021",
+      "sex": "u",
+      "metadata": {
+        "TEXT-ID": "ROG-Dia-GSO-P0012",
+        "SUBCORPUS": "ROG-dialog",
+        "PRS-ID": "ROG-dialog-0021",
+        "GENDER": "Ženski",
+        "AGE": "63",
+        "1LANG": "SL",
+        "REGISTER": "pogovorni jezik",
+        "EDUCATION": "Srednješolska",
+        "PERM-RESD-SETTLEMENT": "Maribor, Maribor",
+        "PERM-RESD-STAT-REGION": "podravska regija",
+        "CHILD-RESD-SETTLEMENT": "Jerenina, Pesnica",
+        "CHILD-RESD-STAT-REGION": "podravska regija",
+        "OTHER-RESD-SETTLEMENT": "None",
+        "OTHER-RESD-STAT-REGION": "None",
+        "BILINGUAL": "Ne",
+        "BILING-DESCRIPTION": "None"
+      }
+    },
+    "ROG-dialog-0022": {
+      "abbreviation": "ROG-dialog-0022",
+      "sex": "u",
+      "metadata": {
+        "TEXT-ID": "ROG-Dia-GSO-P0012",
+        "SUBCORPUS": "ROG-dialog",
+        "PRS-ID": "ROG-dialog-0022",
+        "GENDER": "Ženski",
+        "AGE": "60",
+        "1LANG": "SL",
+        "REGISTER": "pogovorni jezik",
+        "EDUCATION": "Osnovnošolska ali manj",
+        "PERM-RESD-SETTLEMENT": "Maribor, Maribor",
+        "PERM-RESD-STAT-REGION": "podravska regija",
+        "CHILD-RESD-SETTLEMENT": "Jerenina, Pesnica",
+        "CHILD-RESD-STAT-REGION": "podravska regija",
+        "OTHER-RESD-SETTLEMENT": "None",
+        "OTHER-RESD-STAT-REGION": "None",
+        "BILINGUAL": "Ne",
+        "BILING-DESCRIPTION": "None"
+      }
+    }
+  },
+  "ROG-Dia-GSO-P0016": {
+    "ROG-dialog-0029": {
+      "abbreviation": "ROG-dialog-0029",
+      "sex": "u",
+      "metadata": {
+        "TEXT-ID": "ROG-Dia-GSO-P0016",
+        "SUBCORPUS": "ROG-dialog",
+        "PRS-ID": "ROG-dialog-0029",
+        "GENDER": "Ženski",
+        "AGE": "77",
+        "1LANG": "SL",
+        "REGISTER": "narečje",
+        "EDUCATION": "Srednješolska",
+        "PERM-RESD-SETTLEMENT": "Dekani, Mestna občina Koper",
+        "PERM-RESD-STAT-REGION": "obalno-kraška regija",
+        "CHILD-RESD-SETTLEMENT": "Dekani, Mestna občina Koper",
+        "CHILD-RESD-STAT-REGION": "obalno-kraška regija",
+        "OTHER-RESD-SETTLEMENT": "None",
+        "OTHER-RESD-STAT-REGION": "None",
+        "BILINGUAL": "Ne",
+        "BILING-DESCRIPTION": "None"
+      }
+    },
+    "ROG-dialog-0030": {
+      "abbreviation": "ROG-dialog-0030",
+      "sex": "u",
+      "metadata": {
+        "TEXT-ID": "ROG-Dia-GSO-P0016",
+        "SUBCORPUS": "ROG-dialog",
+        "PRS-ID": "ROG-dialog-0030",
+        "GENDER": "Moški",
+        "AGE": "82",
+        "1LANG": "SL",
+        "REGISTER": "narečje",
+        "EDUCATION": "Osnovnošolska ali manj",
+        "PERM-RESD-SETTLEMENT": "Dekani, Mestna občina Koper",
+        "PERM-RESD-STAT-REGION": "obalno-kraška regija",
+        "CHILD-RESD-SETTLEMENT": "Šared, Občina Izola",
+        "CHILD-RESD-STAT-REGION": "obalno-kraška regija",
+        "OTHER-RESD-SETTLEMENT": "Izola, Občina Izola",
+        "OTHER-RESD-STAT-REGION": "obalno-kraška regija",
+        "BILINGUAL": "Da",
+        "BILING-DESCRIPTION": "IT"
+      }
+    }
+  },
+  "ROG-Dia-GSO-P0018": {
+    "ROG-dialog-0033": {
+      "abbreviation": "ROG-dialog-0033",
+      "sex": "u",
+      "metadata": {
+        "TEXT-ID": "ROG-Dia-GSO-P0018",
+        "SUBCORPUS": "ROG-dialog",
+        "PRS-ID": "ROG-dialog-0033",
+        "GENDER": "Ženski",
+        "AGE": "21",
+        "1LANG": "SL",
+        "REGISTER": "pogovorni jezik",
+        "EDUCATION": "Srednješolska",
+        "PERM-RESD-SETTLEMENT": "Podljubelj, Tržič",
+        "PERM-RESD-STAT-REGION": "gorenjska regija",
+        "CHILD-RESD-SETTLEMENT": "Podljubelj, Tržič",
+        "CHILD-RESD-STAT-REGION": "gorenjska regija",
+        "OTHER-RESD-SETTLEMENT": "Ljubljana",
+        "OTHER-RESD-STAT-REGION": "osrednjeslovenska regija",
+        "BILINGUAL": "Ne",
+        "BILING-DESCRIPTION": "None"
+      }
+    },
+    "ROG-dialog-0034": {
+      "abbreviation": "ROG-dialog-0034",
+      "sex": "u",
+      "metadata": {
+        "TEXT-ID": "ROG-Dia-GSO-P0018",
+        "SUBCORPUS": "ROG-dialog",
+        "PRS-ID": "ROG-dialog-0034",
+        "GENDER": "Ženski",
+        "AGE": "20",
+        "1LANG": "SL",
+        "REGISTER": "pogovorni jezik",
+        "EDUCATION": "Srednješolska",
+        "PERM-RESD-SETTLEMENT": "Lom, Tržič",
+        "PERM-RESD-STAT-REGION": "gorenjska regija",
+        "CHILD-RESD-SETTLEMENT": "Lom, Tržič",
+        "CHILD-RESD-STAT-REGION": "gorenjska regija",
+        "OTHER-RESD-SETTLEMENT": "Ljubljana",
+        "OTHER-RESD-STAT-REGION": "osrednjeslovenska regija",
+        "BILINGUAL": "Ne",
+        "BILING-DESCRIPTION": "None"
+      }
+    }
+  },
+  "ROG-Dia-GSO-P0019": {
+    "ROG-dialog-0035": {
+      "abbreviation": "ROG-dialog-0035",
+      "sex": "u",
+      "metadata": {
+        "TEXT-ID": "ROG-Dia-GSO-P0019",
+        "SUBCORPUS": "ROG-dialog",
+        "PRS-ID": "ROG-dialog-0035",
+        "GENDER": "Moški",
+        "AGE": "24",
+        "1LANG": "SL",
+        "REGISTER": "pogovorni jezik",
+        "EDUCATION": "Univerzitetna ali več",
+        "PERM-RESD-SETTLEMENT": "Logatec, Logatec",
+        "PERM-RESD-STAT-REGION": "osrednjeslovenska regija",
+        "CHILD-RESD-SETTLEMENT": "Logatec, Logatec",
+        "CHILD-RESD-STAT-REGION": "osrednjeslovenska regija",
+        "OTHER-RESD-SETTLEMENT": "Ljubljana, Ljubljana",
+        "OTHER-RESD-STAT-REGION": "osrednjeslovenska regija",
+        "BILINGUAL": "Ne",
+        "BILING-DESCRIPTION": "None"
+      }
+    },
+    "ROG-dialog-0036": {
+      "abbreviation": "ROG-dialog-0036",
+      "sex": "u",
+      "metadata": {
+        "TEXT-ID": "ROG-Dia-GSO-P0019",
+        "SUBCORPUS": "ROG-dialog",
+        "PRS-ID": "ROG-dialog-0036",
+        "GENDER": "Ženski",
+        "AGE": "22",
+        "1LANG": "SL",
+        "REGISTER": "pogovorni jezik",
+        "EDUCATION": "Univerzitetna ali več",
+        "PERM-RESD-SETTLEMENT": "Logatec, Logatec",
+        "PERM-RESD-STAT-REGION": "osrednjeslovenska regija",
+        "CHILD-RESD-SETTLEMENT": "Logatec, Logatec",
+        "CHILD-RESD-STAT-REGION": "osrednjeslovenska regija",
+        "OTHER-RESD-SETTLEMENT": "Kranj, Kranj; Maribor, Maribor",
+        "OTHER-RESD-STAT-REGION": "gorenjska regija; podravska regija",
+        "BILINGUAL": "Ne",
+        "BILING-DESCRIPTION": "None"
+      }
+    }
+  },
+  "ROG-Dia-GSO-P0021": {
+    "ROG-dialog-0039": {
+      "abbreviation": "ROG-dialog-0039",
+      "sex": "u",
+      "metadata": {
+        "TEXT-ID": "ROG-Dia-GSO-P0021",
+        "SUBCORPUS": "ROG-dialog",
+        "PRS-ID": "ROG-dialog-0039",
+        "GENDER": "Moški",
+        "AGE": "22",
+        "1LANG": "SL",
+        "REGISTER": "narečje",
+        "EDUCATION": "Višješolska ali visokošolska strokovna",
+        "PERM-RESD-SETTLEMENT": "Prvačina, Nova Gorica",
+        "PERM-RESD-STAT-REGION": "goriška regija",
+        "CHILD-RESD-SETTLEMENT": "Prvačina, Nova Gorica",
+        "CHILD-RESD-STAT-REGION": "goriška regija",
+        "OTHER-RESD-SETTLEMENT": "Nova Gorica, Nova Gorica",
+        "OTHER-RESD-STAT-REGION": "goriška regija",
+        "BILINGUAL": "Ne",
+        "BILING-DESCRIPTION": "None"
+      }
+    },
+    "ROG-dialog-0040": {
+      "abbreviation": "ROG-dialog-0040",
+      "sex": "u",
+      "metadata": {
+        "TEXT-ID": "ROG-Dia-GSO-P0021",
+        "SUBCORPUS": "ROG-dialog",
+        "PRS-ID": "ROG-dialog-0040",
+        "GENDER": "Moški",
+        "AGE": "25",
+        "1LANG": "SL",
+        "REGISTER": "narečje",
+        "EDUCATION": "Srednješolska",
+        "PERM-RESD-SETTLEMENT": "Renče, Renče-Vogrsko",
+        "PERM-RESD-STAT-REGION": "goriška regija",
+        "CHILD-RESD-SETTLEMENT": "Renče, Renče-Vogrsko",
+        "CHILD-RESD-STAT-REGION": "goriška regija",
+        "OTHER-RESD-SETTLEMENT": "Nova Gorica, Nova Gorica",
+        "OTHER-RESD-STAT-REGION": "goriška regija",
+        "BILINGUAL": "Ne",
+        "BILING-DESCRIPTION": "None"
+      }
+    }
+  },
+  "ROG-Dia-GSO-P0022": {
+    "ROG-dialog-0042": {
+      "abbreviation": "ROG-dialog-0042",
+      "sex": "u",
+      "metadata": {
+        "TEXT-ID": "ROG-Dia-GSO-P0022",
+        "SUBCORPUS": "ROG-dialog",
+        "PRS-ID": "ROG-dialog-0042",
+        "GENDER": "Moški",
+        "AGE": "36",
+        "1LANG": "SL",
+        "REGISTER": "narečje",
+        "EDUCATION": "Univerzitetna ali več",
+        "PERM-RESD-SETTLEMENT": "Miklavž na Dravskem polju, Miklavž na Dravskem polju",
+        "PERM-RESD-STAT-REGION": "podravska regija",
+        "CHILD-RESD-SETTLEMENT": "Šentjernej, Šentjernej",
+        "CHILD-RESD-STAT-REGION": "Jugovzhodna Slovenija",
+        "OTHER-RESD-SETTLEMENT": "Maribor, Maribor",
+        "OTHER-RESD-STAT-REGION": "podravska regija",
+        "BILINGUAL": "Ne",
+        "BILING-DESCRIPTION": "None"
+      }
+    },
+    "ROG-dialog-0041": {
+      "abbreviation": "ROG-dialog-0041",
+      "sex": "u",
+      "metadata": {
+        "TEXT-ID": "ROG-Dia-GSO-P0022",
+        "SUBCORPUS": "ROG-dialog",
+        "PRS-ID": "ROG-dialog-0041",
+        "GENDER": "Moški",
+        "AGE": "40",
+        "1LANG": "SL",
+        "REGISTER": "narečje",
+        "EDUCATION": "Univerzitetna ali več",
+        "PERM-RESD-SETTLEMENT": "Novo mesto, Novo mesto",
+        "PERM-RESD-STAT-REGION": "Jugovzhodna Slovenija",
+        "CHILD-RESD-SETTLEMENT": "Šentjernej, Šentjernej",
+        "CHILD-RESD-STAT-REGION": "Jugovzhodna Slovenija",
+        "OTHER-RESD-SETTLEMENT": "Maribor, Maribor",
+        "OTHER-RESD-STAT-REGION": "podravska regija",
+        "BILINGUAL": "Ne",
+        "BILING-DESCRIPTION": "None"
+      }
+    }
+  },
+  "ROG-Dia-GSO-P0025": {
+    "ROG-dialog-0048": {
+      "abbreviation": "ROG-dialog-0048",
+      "sex": "u",
+      "metadata": {
+        "TEXT-ID": "ROG-Dia-GSO-P0025",
+        "SUBCORPUS": "ROG-dialog",
+        "PRS-ID": "ROG-dialog-0048",
+        "GENDER": "Moški",
+        "AGE": "-",
+        "1LANG": "SL",
+        "REGISTER": "narečje",
+        "EDUCATION": "Univerzitetna ali več",
+        "PERM-RESD-SETTLEMENT": "Lukovica",
+        "PERM-RESD-STAT-REGION": "osrednjeslovenska regija",
+        "CHILD-RESD-SETTLEMENT": "Mežica",
+        "CHILD-RESD-STAT-REGION": "koroška regija",
+        "OTHER-RESD-SETTLEMENT": "Ljubljana",
+        "OTHER-RESD-STAT-REGION": "osrednjeslovenska regija",
+        "BILINGUAL": "Ne",
+        "BILING-DESCRIPTION": "None"
+      }
+    },
+    "ROG-dialog-0049": {
+      "abbreviation": "ROG-dialog-0049",
+      "sex": "u",
+      "metadata": {
+        "TEXT-ID": "ROG-Dia-GSO-P0025",
+        "SUBCORPUS": "ROG-dialog",
+        "PRS-ID": "ROG-dialog-0049",
+        "GENDER": "Ženski",
+        "AGE": "22",
+        "1LANG": "SL",
+        "REGISTER": "narečje",
+        "EDUCATION": "Srednješolska",
+        "PERM-RESD-SETTLEMENT": "Ljubljana",
+        "PERM-RESD-STAT-REGION": "osrednjeslovenska regija",
+        "CHILD-RESD-SETTLEMENT": "Mežica; Prevalje, Ravne na Koroškem",
+        "CHILD-RESD-STAT-REGION": "koroška regija",
+        "OTHER-RESD-SETTLEMENT": "St. Andrä, Avstrija",
+        "OTHER-RESD-STAT-REGION": "-",
+        "BILINGUAL": "Ne",
+        "BILING-DESCRIPTION": "None"
+      }
+    },
+    "ROG-dialog-0050": {
+      "abbreviation": "ROG-dialog-0050",
+      "sex": "u",
+      "metadata": {
+        "TEXT-ID": "ROG-Dia-GSO-P0025",
+        "SUBCORPUS": "ROG-dialog",
+        "PRS-ID": "ROG-dialog-0050",
+        "GENDER": "Moški",
+        "AGE": "21",
+        "1LANG": "SL",
+        "REGISTER": "pogovorni jezik",
+        "EDUCATION": "Srednješolska",
+        "PERM-RESD-SETTLEMENT": "Zabovci, Markovci",
+        "PERM-RESD-STAT-REGION": "podravska regija",
+        "CHILD-RESD-SETTLEMENT": "Maribor",
+        "CHILD-RESD-STAT-REGION": "podravska regija",
+        "OTHER-RESD-SETTLEMENT": "Ljubljana",
+        "OTHER-RESD-STAT-REGION": "osrednjeslovenska regija",
+        "BILINGUAL": "Ne",
+        "BILING-DESCRIPTION": "None"
+      }
+    }
+  }
+}
